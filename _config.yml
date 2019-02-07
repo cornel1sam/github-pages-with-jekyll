@@ -1,15 +1,13 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Cars
+author: Turcu Cornel
+email: cturc1@ocdsb.ca
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ on this web site we will be discussin the automotive world
 
-# social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+# social links https://www.automotiveworld.com/
+twitter_username: cornell/off
+github_username: cornel1sam
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-slate
+theme: minima
